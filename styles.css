@@ -12,7 +12,7 @@ body {
     overflow: hidden;
 }
 
-/* Some positioning rules that are common for all objects */
+
 .orbit {
     border: 1px dashed #666;
 }
@@ -144,7 +144,7 @@ body {
     margin-top: -350px;
 }
 
-/* Spinning animations */
+
 
 @keyframes spin-right {
     100% {
